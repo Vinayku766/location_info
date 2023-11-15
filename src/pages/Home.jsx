@@ -46,7 +46,7 @@ const Home = ({setCode, data, setReset}) => {
       }).slice(0, 5)}
       </h2>
       </>):
-      <h2 className="text-center text-[#000] mt-[10px]">Search For Country Details...</h2>
+      <h2 className="text-center text-[#000] mt-[10px]">Enter a Pincode...</h2>
       }
     </div>
     </div>
